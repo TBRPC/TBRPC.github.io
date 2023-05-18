@@ -3,9 +3,9 @@
 
 [![Python_package Status](https://github.com/?/?/?/Python_package/?.svg)](https://github.com/?/?/?)
 
-* Testing sharepoint Excel file links [Releases page]([https://github.com/?/?/releases](https://tampabayplanning.sharepoint.com/:x:/s/Public/ETjIPnRwOa9DhSBTukSsKvABZblRCkTrdakUq_BWdvquVA?e=3SodSp)
+* Testing sharepoint Excel file links [Test1](https://tampabayplanning.sharepoint.com/:x:/s/Public/ETjIPnRwOa9DhSBTukSsKvABZblRCkTrdakUq_BWdvquVA?e=3SodSp)
 * 
-* Testing sharepoint Zip file links [Releases page]([https://github.com/?/?/releases](https://tampabayplanning.sharepoint.com/:u:/s/Public/ETC3EvxA92VNg5m9T_qp2Y0BLLdReOJR8yG8xexcF4zNoQ?e=DzQHQg)
+* Testing sharepoint Zip file links [Test2](https://tampabayplanning.sharepoint.com/:u:/s/Public/ETC3EvxA92VNg5m9T_qp2Y0BLLdReOJR8yG8xexcF4zNoQ?e=DzQHQg)
 
 # Tampa Bay Regional Inundation Coordination (TBRIC) Tool Suite
 
