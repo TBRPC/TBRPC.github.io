@@ -7,6 +7,8 @@
 * 
 * Testing sharepoint Zip file links [Test2](https://tampabayplanning.sharepoint.com/:u:/s/Public/ETC3EvxA92VNg5m9T_qp2Y0BLLdReOJR8yG8xexcF4zNoQ?e=DzQHQg)
 
+* Testing YouTube links [Test3](https://www.youtube.com/watch?v=Bk7UdqoZUDk)
+
 # Tampa Bay Regional Inundation Coordination (TBRIC) Tool Suite
 
 ## Description:
